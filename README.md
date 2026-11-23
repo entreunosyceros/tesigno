@@ -1,12 +1,17 @@
 # TeSigno
-
+<p align="center">
 <img src="app/src/main/res/drawable/logo_tesigno.png" alt="Logo de TeSigno" width="140">
+</p>
 
 [Repositorio del proyecto](https://github.com/entreunosyceros/tesigno) · [Cómo contribuir](CONTRIBUTING.md) · [Licencia](LICENSE)
 
 **Una forma sencilla de entendernos.** Aplicación Android gratuita, inicialmente para que dos personas mayores puedan comunicarse con su nieto mediante expresiones cotidianas y vídeos en lengua de signos española (LSE). **No es un traductor automático**: reproduce grabaciones previamente preparadas y revisadas.
 
 ## Utilización diaria
+
+<p align="center">
+<img width="1080" height="2392" alt="Screenshot_2026-11-23-16-04-59-307_es tesigno" src="https://github.com/user-attachments/assets/e34d0021-30a6-4ef7-b112-a05d9cba209b" />
+</p>
 
 - Cabecera con el logo original y acceso visible a Ajustes.
 - Cuatro categorías y 14 expresiones iniciales. Las categorías empiezan contraídas y funcionan como un acordeón: abrir una cierra la anterior; tocarla otra vez la contrae.
@@ -19,6 +24,10 @@ La selección de expresiones y todos los vídeos guardados funcionan **sin conex
 
 ## Gestión de categorías
 
+<p align="center">
+<img width="1080" height="2392" alt="Screenshot_2026-11-23-16-05-30-924_es tesigno" src="https://github.com/user-attachments/assets/dee50820-1e92-41c7-a79e-dcf99b10cb3a" />
+</p>
+
 Abre **Ajustes → Gestionar categorías y expresiones → Categorías**:
 
 - Crear o editar nombre e icono entre seis opciones sencillas.
@@ -29,6 +38,10 @@ Abre **Ajustes → Gestionar categorías y expresiones → Categorías**:
 Se rechazan los nombres vacíos y los duplicados de categoría sin distinguir mayúsculas. Los colores siguen el tema para mantener contraste; no se añade un selector de colores individual opcional.
 
 ## Gestión de expresiones
+
+<p align="center">
+<img width="1080" height="2392" alt="Screenshot_2026-11-23-16-05-10-225_es tesigno" src="https://github.com/user-attachments/assets/63c011ca-793d-49d2-a0fe-a0a69dac922d" />
+</p>
 
 En **Ajustes → Gestionar categorías y expresiones → Expresiones**, selecciona la categoría:
 
