@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": "saludos",
+      "text": "Saludos"
+    },
+    {
+      "id": "conversacion",
+      "text": "Conversación"
+    },
+    {
+      "id": "necesidades",
+      "text": "Necesidades"
+    },
+    {
+      "id": "vida_cotidiana",
+      "text": "Vida cotidiana"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "hola",
+      "text": "Hola",
+      "category": "saludos",
+      "video": "hola.mp4"
+    },
+    {
+      "id": "buenos_dias",
+      "text": "Buenos días",
+      "category": "saludos",
+      "video": "buenos_dias.mp4"
+    },
+    {
+      "id": "buenas_tardes",
+      "text": "Buenas tardes",
+      "category": "saludos",
+      "video": "buenas_tardes.mp4"
+    },
+    {
+      "id": "buenas_noches",
+      "text": "Buenas noches",
+      "category": "saludos",
+      "video": "buenas_noches.mp4"
+    },
+    {
+      "id": "que_tal_estas",
+      "text": "¿Qué tal estás?",
+      "category": "conversacion",
+      "video": "que_tal_estas.mp4"
+    },
+    {
+      "id": "que_necesitas",
+      "text": "¿Qué necesitas?",
+      "category": "conversacion",
+      "video": "que_necesitas.mp4"
+    },
+    {
+      "id": "comer",
+      "text": "Comer",
+      "category": "necesidades",
+      "video": "comer.mp4"
+    },
+    {
+      "id": "beber",
+      "text": "Beber",
+      "category": "necesidades",
+      "video": "beber.mp4"
+    },
+    {
+      "id": "ir_al_bano",
+      "text": "Ir al baño",
+      "category": "necesidades",
+      "video": "ir_al_bano.mp4"
+    },
+    {
+      "id": "salir",
+      "text": "Salir",
+      "category": "necesidades",
+      "video": "salir.mp4"
+    },
+    {
+      "id": "dormir",
+      "text": "Dormir",
+      "category": "vida_cotidiana",
+      "video": "dormir.mp4"
+    },
+    {
+      "id": "despertar",
+      "text": "Despertar",
+      "category": "vida_cotidiana",
+      "video": "despertar.mp4"
+    },
+    {
+      "id": "amigo",
+      "text": "Amigo",
+      "category": "vida_cotidiana",
+      "video": "amigo.mp4"
+    },
+    {
+      "id": "familia",
+      "text": "Familia",
+      "category": "vida_cotidiana",
+      "video": "familia.mp4"
+    }
+  ]
+}

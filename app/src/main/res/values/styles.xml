@@ -1,0 +1,7 @@
+<resources><style name="Theme.TeSigno" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">false</item><item name="android:statusBarColor">#174C48</item><item name="android:navigationBarColor">#174C48</item></style>
+    <style name="Theme.TeSigno.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.TeSigno</item>
+    </style>
+</resources>

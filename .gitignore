@@ -1,0 +1,38 @@
+# Gradle y Android Studio
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+
+# Binarios generados y firmas privadas
+*.apk
+*.aab
+*.apks
+*.jks
+*.keystore
+*.key
+*.pem
+
+# Configuración privada y archivos del entorno de desarrollo
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+
+# Temporales del sistema, editores y Python
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*~
+__pycache__/
+*.py[cod]
